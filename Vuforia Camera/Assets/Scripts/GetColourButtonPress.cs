@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;    
 
-public class ButtonPress : MonoBehaviour
+public class GetColourButtonPress : MonoBehaviour
 {
     public Button yourButton;
     CameraBehaviour cameraBehaviour;
